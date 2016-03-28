@@ -135,7 +135,7 @@ body
 	background-color: #2A4887;	
 }
 
-.gmail
+.contact
 {
 	margin: 10px;
 	width: 105px;
@@ -144,7 +144,7 @@ body
 	float: left;
 }
 
-.gmail:hover
+.contact:hover
 {
 	background-color: #c84222;	
 }
