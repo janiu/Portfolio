@@ -181,6 +181,7 @@ a.sociallink
 		display: block;
 		width: 105px;
 		height: 142px;
+		cursor: pointer;
 }
 
 a.projectslink
