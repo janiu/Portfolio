@@ -59,6 +59,12 @@
       "css": "doc-text",
       "code": 59400,
       "src": "fontawesome"
+    },
+    {
+      "uid": "81bb68665e8e595505272a746db07c7a",
+      "css": "dot-circled",
+      "code": 59401,
+      "src": "fontawesome"
     }
   ]
 }
